@@ -21,10 +21,10 @@ function generatePassword() {
 
 
     if (use_lowerCase == 1) {
-      passwordData = passwordData + lowercase;
+      passwordData = passwordData + lowerCase;
   };
   if (use_upperCase == 1) {
-    passwordData = passwordData + uppercase;
+    passwordData = passwordData + upperCase;
   };
   if (use_numbers == 1) {
     passwordData = passwordData + numbers;
