@@ -2,7 +2,7 @@
 
 /* password information variables*/
 var charecterlength = '1234567890';
-var lowercase = 'abcdefghijklmnopqrstuvwxyz';
+var lowerCase = 'abcdefghijklmnopqrstuvwxyz';
 var upperCase = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ';
 var numbers = '0123456789';
 var specialCharecters = '!@#$%^&*()';
